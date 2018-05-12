@@ -1,0 +1,39 @@
+_repo: The-Final-Figure_41062
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 41062-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Merwin, Sam
+    aliases:
+    - Merwin, Samuel Kimball, Jr.
+    - Ferrat, Jacques Jean
+    birthdate: 1910
+    deathdate: 1996
+    gutenberg_agent_id: '33758'
+    url: http://www.gutenberg.org/2009/agents/33758
+    wikipedia: https://en.wikipedia.org/wiki/Sam_Merwin,_Jr.
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Ordnance -- Fiction'
+title: The Final Figure
+url: http://www.gutenberg.org/ebooks/41062
